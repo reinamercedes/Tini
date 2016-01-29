@@ -1,0 +1,97 @@
+/*placeholder: <img src="http://placehold.it/300x300">;*/
+header {
+	background-color: #FCCE09;
+	width: 100%;
+	height: 570px;
+}
+nav ul {
+	position: relative;
+	left: 630px;
+    top: 40px;
+}
+nav ul a {
+	text-decoration: none;
+	margin-right: 15px;
+	color: white;
+	font-size: 15px;
+}
+.Laboratoria {
+	position: relative;
+	left: 400px;
+	top: 230px;
+}
+.Laboratoria h1 {
+	color: white;
+}
+.nuestroPortafolio {
+	position: relative;
+	left: 430px;
+	top: 230px;
+}
+.nuestroPortafolio h5 {
+	color: white;
+}
+.sumateButton {
+	width: 100px;
+	height: 50px;
+	background-color: #FCBA43;
+    text-align: center;
+    padding-top: 15px;
+    position: relative;
+    right: 100px;
+    top: 35px;
+}
+.sumateButton h4 {
+	color: white;
+}
+.ejemploSection {
+	padding-top: 50px;
+	padding-bottom: 20px;
+	background-color: #EAEAE9;
+}
+.ejemplos {
+    margin-top: 30px;
+    background-color: white;
+}
+.ejemplos img {
+	margin-top: 20px;
+	margin-left: 78px;
+	margin-bottom: 10px;
+}
+.ejemplos h1 {
+    color: #868683;
+    margin-left: 15px;
+}
+.ejemplos p {
+	margin-left: 20px;
+	margin-top: 5px;
+	color: #C8C7CF;
+}
+.readmoreButton {
+	background-color: #FCBA43;
+	width: 80px;
+	height: 25px;
+	text-align: center;
+	padding-top: 5px;
+	margin-top: 10px;
+	position: relative;
+	left: 185px;
+	bottom: 5px;
+}
+.readmoreButton h4 {
+	color: white;
+    font-size: 12px;
+}
+footer {
+	background-color: #262624;
+	width: 100%;
+}
+.finalData {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.finalData h5 {
+	color: white;
+	font-family: Arial;
+	font-weight: lighter;
+}
